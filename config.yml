@@ -1,10 +1,10 @@
-title: The Butler
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+title: 油腻叔
+baseline: 中文博客
+description: 欢迎光临油腻叔的博客小站！
 baseurl: /
 canonicalurl: true
 keywords: [Cecil, Static Site Generator, SSG]
-author: Arnaud Ligny
+author: 油腻叔
 date:
   format: j F Y
   timezone: Europe/Paris
@@ -15,5 +15,5 @@ theme:
 hyde:
   sidebar:
     sticky: true # Content to the bottom of the sidebar
-  theme: '' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  theme: "" # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
   reverse: false # Reverse layout
