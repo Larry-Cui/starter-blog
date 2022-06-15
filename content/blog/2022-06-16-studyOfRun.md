@@ -1,7 +1,7 @@
 ---
 title: 简单聊聊润的姿势
 date: 2022-06-15
-image: ../content/blog/2022-06-15-run/kowloon.jpeg
+image: /images/2022-06-15-run/kowloon.jpeg
 tags:
   - Opinion
 draft: false
