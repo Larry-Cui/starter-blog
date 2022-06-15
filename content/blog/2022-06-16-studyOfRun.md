@@ -1,10 +1,10 @@
 ---
 title: 简单聊聊润的姿势
 date: 2022-06-15
-image: kowloon.jpg
+image:
 tags:
   - Opinion
 draft: false
 ---
 
-This is a draft.
+这是个中文测试。
