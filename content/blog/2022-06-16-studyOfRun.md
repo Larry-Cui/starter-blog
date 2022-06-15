@@ -1,7 +1,7 @@
 ---
 title: 简单聊聊润的姿势
 date: 2022-06-15
-image:
+image: /images/butler.jpg
 tags:
   - Opinion
 draft: false
