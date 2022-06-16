@@ -15,7 +15,7 @@ example 1:
 
 ![butler](/images/butler.jpg)
 
-<div style="text-align: justify"><em>image caption</em></div>
+<div style="display: flex; align-items: center; justify-content: center"><em>image caption</em></div>
 
 example 2:
 
