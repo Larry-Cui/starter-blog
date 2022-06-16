@@ -68,7 +68,7 @@
 <!-- excerpt -->
 <p>example 1:</p>
 <p><img src="/images/butler.c3e878c52c41cbea606ac627e10ec817.jpg" alt="butler" loading="lazy" width="1200" height="799" /></p>
-<div align="justify"><em>image caption</em></div>
+<div style="text-align: justify"><em>image caption</em></div>
 <p>example 2:</p>
 <table>
 <thead>
