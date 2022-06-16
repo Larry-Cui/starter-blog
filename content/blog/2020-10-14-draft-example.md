@@ -13,17 +13,12 @@ I'm going to try the caption to a figure!
 
 example 1:
 
+<div align="justify">
 ![butler](/images/butler.jpg)
 _image caption_
+</div>
 
 example 2:
-
-<figure>
-  <img src="/images/butler.jpg" alt="my alt text" style="object-fit: cover"/>
-  <figcaption>This is my caption text.</figcaption>
-</figure>
-
-example 3:
 
 | ![space-1.jpg](/images/butler.jpg) |
 | :--------------------------------: |
