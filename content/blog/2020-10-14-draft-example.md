@@ -6,3 +6,25 @@ draft: false
 ---
 
 This is a draft.
+
+I'm going to try the caption to a figure!
+
+example 1:
+
+![butler](/assets/images/butler.jpg)
+_image_caption_
+
+example 2:
+
+<figure>
+  <img src="/assets/butler.jpg" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
+example 3:
+
+<p align="center">
+  <img alt="img-name" src="/assets/butler.jpg">
+  <br>
+    <em>caption</em>
+</p>
