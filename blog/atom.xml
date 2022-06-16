@@ -67,10 +67,8 @@
 <p>I'm going to try the caption to a figure!</p>
 <!-- excerpt -->
 <p>example 1:</p>
-<div align="justify">
-![butler](/images/butler.jpg)
-_image caption_
-</div>
+<p><img src="/images/butler.c3e878c52c41cbea606ac627e10ec817.jpg" alt="butler" loading="lazy" width="1200" height="799" /></p>
+<div align="justify"><em>image caption</em></div>
 <p>example 2:</p>
 <table>
 <thead>
