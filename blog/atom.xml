@@ -83,7 +83,7 @@
 </tbody>
 </table>
 <p>example 3:</p>
-<img src="https://github.com/Larry-Cui/starter-blog/blob/master/assets/images/daft-punk.jpg" alt="doom" style="object-fit: cover;"/>]]>
+<img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/daft-punk.jpg" alt="doom" style="object-fit: cover;"/>]]>
     </content>
     <link href="/blog/draft-example/" rel="alternate" type="text/html" />
     <published>2020-10-14T18:34:00+02:00</published>
