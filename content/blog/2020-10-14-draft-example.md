@@ -17,7 +17,7 @@ example 1:
 
 <img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/2022-06-15-run/flower.jpeg" alt="doom" style="object-fit: cover;"/>
 
-<div style="display: flex; align-items: center; justify-content: center"><em>flower on the roadside</em></div>
+<div style="display: flex; align-items: flex-start; justify-content: center"><em>flower on the roadside</em></div>
 
 example 2:
 
