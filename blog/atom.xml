@@ -68,18 +68,25 @@
 <!-- excerpt -->
 <p>example 1:</p>
 <p><img src="/images/butler.c3e878c52c41cbea606ac627e10ec817.jpg" alt="butler" loading="lazy" width="1200" height="799" />
-_image<em>caption</em></p>
+<em>image caption</em></p>
 <p>example 2:</p>
 <figure>
-  <img src="https://harmonyblog.netlify.app/images/butler.jpg" alt="my alt text" style="object-fit: cover">
+  <img src="/images/butler.jpg" alt="my alt text" style="object-fit: cover">
   <figcaption>This is my caption text.</figcaption>
 </figure>
-<!-- example 3:
-<p align="center">
-  <img alt="img-name" src="/assets/butler.jpg">
-  <br>
-    <em>caption</em>
-</p> -->]]>
+<p>example 3:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img src="/images/butler.c3e878c52c41cbea606ac627e10ec817.jpg" alt="space-1.jpg" loading="lazy" width="1200" height="799" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><em>Space</em></td>
+</tr>
+</tbody>
+</table>]]>
     </content>
     <link href="/blog/draft-example/" rel="alternate" type="text/html" />
     <published>2020-10-14T18:34:00+02:00</published>
