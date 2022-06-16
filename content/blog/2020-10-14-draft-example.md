@@ -9,6 +9,8 @@ This is a draft.
 
 I'm going to try the caption to a figure!
 
+<!-- excerpt -->
+
 example 1:
 
 ![butler](/assets/images/butler.jpg)
