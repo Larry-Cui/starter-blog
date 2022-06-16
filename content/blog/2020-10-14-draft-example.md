@@ -13,10 +13,9 @@ I'm going to try the caption to a figure!
 
 example 1:
 
-<div align="justify">
 ![butler](/images/butler.jpg)
-_image caption_
-</div>
+
+<div align="justify"><em>image caption</em></div>
 
 example 2:
 
