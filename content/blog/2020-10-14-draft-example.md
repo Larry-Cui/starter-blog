@@ -25,4 +25,4 @@ example 2:
 
 example 3:
 
-<img src="https://github.com/Larry-Cui/starter-blog/blob/master/assets/images/daft-punk.jpg" alt="doom" style="object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/daft-punk.jpg" alt="doom" style="object-fit: cover;"/>
