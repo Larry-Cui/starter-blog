@@ -14,19 +14,17 @@ I'm going to try the caption to a figure!
 example 1:
 
 ![butler](/images/butler.jpg)
-_image_caption_
+_image caption_
 
 example 2:
 
 <figure>
-  <img src="https://harmonyblog.netlify.app/images/butler.jpg" alt="my alt text" style="object-fit: cover"/>
+  <img src="/images/butler.jpg" alt="my alt text" style="object-fit: cover"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
 
-<!-- example 3:
+example 3:
 
-<p align="center">
-  <img alt="img-name" src="/assets/butler.jpg">
-  <br>
-    <em>caption</em>
-</p> -->
+| ![space-1.jpg](/images/butler.jpg) |
+| :--------------------------------: |
+|              _Space_               |
