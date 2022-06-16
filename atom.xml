@@ -60,6 +60,32 @@
     <updated>2022-06-15T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
+    <id>/blog/draft-example/</id>
+    <title>Draft example</title>
+    <content type="html">
+      <![CDATA[<p>This is a draft.</p>
+<p>I'm going to try the caption to a figure!</p>
+<!-- excerpt -->
+<p>example 1:</p>
+<p><img src="/images/butler.c3e878c52c41cbea606ac627e10ec817.jpg" alt="butler" loading="lazy" width="1200" height="799" />
+_image<em>caption</em></p>
+<p>example 2:</p>
+<figure>
+  <img src="/images/butler.jpg" alt="my alt text">
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+<!-- example 3:
+<p align="center">
+  <img alt="img-name" src="/assets/butler.jpg">
+  <br>
+    <em>caption</em>
+</p> -->]]>
+    </content>
+    <link href="/blog/draft-example/" rel="alternate" type="text/html" />
+    <published>2020-10-14T18:34:00+02:00</published>
+    <updated>2020-10-14T18:34:00+02:00</updated>
+  </entry>
+  <entry xml:lang="en">
     <id>/about/</id>
     <title>About</title>
     <content type="html">
