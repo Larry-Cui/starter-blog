@@ -2,7 +2,7 @@
 title: "Draft example"
 date: 2020-10-14T16:34:00.000Z
 image: /images/butler.jpg
-draft: false
+draft: true
 ---
 
 This is a draft.
@@ -15,13 +15,15 @@ example 1:
 
 ![butler](/images/daft-punk.jpg)
 
-<div style="display: flex; align-items: center; justify-content: center"><em>image caption</em></div>
+<img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/2022-06-15-run/flower.jpeg" alt="doom" style="object-fit: cover;"/>
+
+<div style="display: flex; align-items: center; justify-content: center"><em>flower on the roadside</em></div>
 
 example 2:
 
-| ![space-1.jpg](/images/butler.jpg) |
-| :--------------------------------: |
-|              _Space_               |
+| <img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/doom.jpg" alt="doom" style="object-fit: cover;"/> |
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                  _Space_                                                                  |
 
 example 3:
 
