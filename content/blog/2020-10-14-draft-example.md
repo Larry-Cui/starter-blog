@@ -22,3 +22,7 @@ example 2:
 | ![space-1.jpg](/images/butler.jpg) |
 | :--------------------------------: |
 |              _Space_               |
+
+example 3:
+
+<img src="https://harmonyblog.netlify.app/images/daft-punk" alt="doom" style="object-fit: cover;"/>
