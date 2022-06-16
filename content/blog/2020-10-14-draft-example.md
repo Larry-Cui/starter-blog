@@ -23,10 +23,10 @@ example 2:
   <figcaption>This is my caption text.</figcaption>
 </figure>
 
-example 3:
+<!-- example 3:
 
 <p align="center">
   <img alt="img-name" src="/assets/butler.jpg">
   <br>
     <em>caption</em>
-</p>
+</p> -->
