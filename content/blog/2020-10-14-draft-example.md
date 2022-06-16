@@ -13,7 +13,7 @@ I'm going to try the caption to a figure!
 
 example 1:
 
-![butler](/images/butler.jpg)
+![butler](/images/daft-punk.jpg)
 
 <div style="display: flex; align-items: center; justify-content: center"><em>image caption</em></div>
 
