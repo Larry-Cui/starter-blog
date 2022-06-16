@@ -19,7 +19,7 @@ _image_caption_
 example 2:
 
 <figure>
-  <img src="/images/butler.jpg" alt="my alt text"/>
+  <img src="https://harmonyblog.netlify.app/images/butler.jpg" alt="my alt text" style="object-fit: cover"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
 
