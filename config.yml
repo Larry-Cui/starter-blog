@@ -21,24 +21,3 @@ hyde:
 pagination:
   max: 10
   path: "p"
-
-body:
-  format: md # page body format (only Markdown is supported)
-  toc: [h2, h3] # headers used to build the table of contents
-  images: # how to handle images
-    lazy:
-      enabled: true # enables lazy loading (`true` by default)
-    caption:
-      enabled: true # adds <figcaption> to images with a title (`false` by default)
-    remote:
-      enabled: true # enables remote image handling (`true` by default)
-    resize:
-      enabled: true # enables image resizing by using the `width` extra attribute (`false` by default)
-    responsive:
-      enabled: false # creates responsive images (`false` by default)
-    webp:
-      enabled: false # creates WebP images (`false` by default)
-  notes:
-    enabled: false # enables Notes blocks (`false` by default)
-  highlight:
-    enabled: false # enables syntax highlighting (`false` by default)

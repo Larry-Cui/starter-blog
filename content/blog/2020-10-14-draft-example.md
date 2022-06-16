@@ -25,4 +25,4 @@ example 2:
 
 example 3:
 
-<img src="https://harmonyblog.netlify.app/images/daft-punk" alt="doom" style="object-fit: cover;"/>
+<img src="https://harmonyblog.netlify.app/images/daft-punk.jpg" alt="doom" style="object-fit: cover;"/>
