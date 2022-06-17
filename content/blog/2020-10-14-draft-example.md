@@ -29,6 +29,8 @@ example 3:
 
 <img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/daft-punk.jpg" alt="doom" style="object-fit: cover;"/>
 
+<img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/daft-punk.jpg" alt="doom"/>
+
 <img src="https://lh3.googleusercontent.com/roN9LynEo7PYLIaBpYf5av_56qS_HDtTHrok6IfKcqYWqqTDA8xhZa1OJyyPHBum127IkF-gz6X9JhFtpQceAIpqovmuMhxwojIR4SEuUVtDW7LUsEinL4q_Y9fd4_KeAeLjE6VWoQ=w1920-h1080" alt="universal studio LA" />
 
 <img src="https://lh3.googleusercontent.com/roN9LynEo7PYLIaBpYf5av_56qS_HDtTHrok6IfKcqYWqqTDA8xhZa1OJyyPHBum127IkF-gz6X9JhFtpQceAIpqovmuMhxwojIR4SEuUVtDW7LUsEinL4q_Y9fd4_KeAeLjE6VWoQ=w1920-h1080" alt="universal studio LA" style="object-fit: cover;" />
