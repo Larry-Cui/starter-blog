@@ -36,3 +36,5 @@ example 3:
 <img src="https://lh3.googleusercontent.com/roN9LynEo7PYLIaBpYf5av_56qS_HDtTHrok6IfKcqYWqqTDA8xhZa1OJyyPHBum127IkF-gz6X9JhFtpQceAIpqovmuMhxwojIR4SEuUVtDW7LUsEinL4q_Y9fd4_KeAeLjE6VWoQ=w1920-h1080" alt="universal studio LA" style="object-fit: cover;" />
 
 <a href="https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w600-h315-p-k" /> </a>
+
+<img src="https://share.icloud.com/photos/0f6MhXRsEzO5I5vwjbnOjfKxQ" alt="red lantern"/>
