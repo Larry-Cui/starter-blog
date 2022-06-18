@@ -48,3 +48,8 @@ Here below is the pythagrean theorem:
 $$
 a^2 + b^2 = c^2
 $$
+
+another example:
+\[
+\text{determinant} = ad - bc
+\]
