@@ -99,7 +99,10 @@ $$</p>
 <p>another example:
 [
 \text{determinant} = ad - bc
-]</p>]]>
+]</p>
+<p><a href="#my-multi-word-header">click on this link</a></p>
+<h3 id="my-multi-word-header">My Multi Word Header</h3>
+<p>this is a test to see if internal link works in markdown.</p>]]>
     </content>
     <link href="/blog/draft-example/" rel="alternate" type="text/html" />
     <published>2020-10-14T18:34:00+02:00</published>
