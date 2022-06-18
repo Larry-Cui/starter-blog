@@ -53,3 +53,9 @@ another example:
 \[
 \text{determinant} = ad - bc
 \]
+
+[click on this link](#my-multi-word-header)
+
+### My Multi Word Header
+
+this is a test to see if internal link works in markdown.
