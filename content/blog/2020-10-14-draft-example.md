@@ -40,3 +40,8 @@ example 3:
 <img src="https://share.icloud.com/photos/0f6MhXRsEzO5I5vwjbnOjfKxQ" alt="red lantern"/>
 
 It seems that google photo is still the best place to store all images.
+
+Here below is the pythagrean theorem:
+\[
+a^2 + b^2 = c^2
+\]
