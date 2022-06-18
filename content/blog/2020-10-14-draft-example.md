@@ -42,6 +42,7 @@ example 3:
 It seems that google photo is still the best place to store all images.
 
 Here below is the pythagrean theorem:
-\[
+
+$$
 a^2 + b^2 = c^2
-\]
+$$
