@@ -38,3 +38,5 @@ example 3:
 <a href="https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w600-h315-p-k" /> </a>
 
 <img src="https://share.icloud.com/photos/0f6MhXRsEzO5I5vwjbnOjfKxQ" alt="red lantern"/>
+
+It seems that google photo is still the best place to store all images.
