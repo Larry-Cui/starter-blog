@@ -67,7 +67,7 @@
 <p>I'm going to try the caption to a figure!</p>
 <!-- excerpt -->
 <p>example 1:</p>
-<p><img src="/images/daft-punk.3e2142f29c4623459b3f807d4d34ab46.jpg" alt="butler" loading="lazy" width="999" height="562" /></p>
+<img src="/images/daft-punk.3e2142f29c4623459b3f807d4d34ab46.jpg" alt="butler" loading="lazy" width="999" height="562" />
 <img src="https://raw.githubusercontent.com/Larry-Cui/starter-blog/master/assets/images/2022-06-15-run/flower.jpeg" alt="doom" style="object-fit: cover;"/>
 <div style="display: flex; align-items: flex-start; justify-content: center"><em>flower on the roadside</em></div>
 <p>example 2:</p>
@@ -89,7 +89,8 @@
 <img src="https://lh3.googleusercontent.com/roN9LynEo7PYLIaBpYf5av_56qS_HDtTHrok6IfKcqYWqqTDA8xhZa1OJyyPHBum127IkF-gz6X9JhFtpQceAIpqovmuMhxwojIR4SEuUVtDW7LUsEinL4q_Y9fd4_KeAeLjE6VWoQ=w1920-h1080" alt="universal studio LA" />
 <img src="https://lh3.googleusercontent.com/roN9LynEo7PYLIaBpYf5av_56qS_HDtTHrok6IfKcqYWqqTDA8xhZa1OJyyPHBum127IkF-gz6X9JhFtpQceAIpqovmuMhxwojIR4SEuUVtDW7LUsEinL4q_Y9fd4_KeAeLjE6VWoQ=w1920-h1080" alt="universal studio LA" style="object-fit: cover;" />
 <p><a href="https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w600-h315-p-k" /> </a></p>
-<img src="https://share.icloud.com/photos/0f6MhXRsEzO5I5vwjbnOjfKxQ" alt="red lantern"/>]]>
+<img src="https://share.icloud.com/photos/0f6MhXRsEzO5I5vwjbnOjfKxQ" alt="red lantern"/>
+<p>It seems that google photo is still the best place to store all images.</p>]]>
     </content>
     <link href="/blog/draft-example/" rel="alternate" type="text/html" />
     <published>2020-10-14T18:34:00+02:00</published>
