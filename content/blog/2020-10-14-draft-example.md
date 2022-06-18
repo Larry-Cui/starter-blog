@@ -41,7 +41,7 @@ example 3:
 
 It seems that google photo is still the best place to store all images.
 
-show the changes made 1 minute ago.
+show the changes made 5 minute ago.
 
 Here below is the pythagrean theorem:
 
