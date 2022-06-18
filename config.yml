@@ -1,4 +1,4 @@
-title: 油腻叔
+title: 狮子山下
 baseline: 中文博客
 description: 欢迎光临油腻叔的博客小站！
 baseurl: /
@@ -15,7 +15,7 @@ theme:
 hyde:
   sidebar:
     sticky: true # Content to the bottom of the sidebar
-  theme: "" # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  theme: "cecil" # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
   reverse: false # Reverse layout
 
 pagination:
