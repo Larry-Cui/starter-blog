@@ -95,7 +95,11 @@
 <p>Here below is the pythagrean theorem:</p>
 <p>$$
 a^2 + b^2 = c^2
-$$</p>]]>
+$$</p>
+<p>another example:
+[
+\text{determinant} = ad - bc
+]</p>]]>
     </content>
     <link href="/blog/draft-example/" rel="alternate" type="text/html" />
     <published>2020-10-14T18:34:00+02:00</published>
