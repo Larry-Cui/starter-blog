@@ -11,6 +11,8 @@ I'm going to try the caption to a figure!
 
 <!-- excerpt -->
 
+[click on this link](#my-multi-word-header)
+
 example 1:
 
 ![butler](/images/daft-punk.jpg)
@@ -53,8 +55,6 @@ another example:
 \[
 \text{determinant} = ad - bc
 \]
-
-[click on this link](#my-multi-word-header)
 
 ### My Multi Word Header
 
