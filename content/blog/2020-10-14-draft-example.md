@@ -51,6 +51,10 @@ $$
 a^2 + b^2 = c^2
 $$
 
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
+
 another example:
 \[
 \text{determinant} = ad - bc
