@@ -54,7 +54,7 @@ $$
 Here is a simple footnote[^1]. With some additional text after it.[^bignote]
 
 [^1]: My reference.
-[^bignote]:
+[^bignote]: what goes here is a big problem.
 
 another example:
 \[
