@@ -51,9 +51,10 @@ $$
 a^2 + b^2 = c^2
 $$
 
-Here is a simple footnote[^1]. With some additional text after it.
+Here is a simple footnote[^1]. With some additional text after it.[^bignote]
 
 [^1]: My reference.
+[^bignote]:
 
 another example:
 \[
