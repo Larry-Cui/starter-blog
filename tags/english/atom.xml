@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>/tags/finance/</id>
-  <title>狮子山下 - Finance</title>
+  <id>/tags/english/</id>
+  <title>狮子山下 - English</title>
   <subtitle><![CDATA[欢迎光临油腻叔的博客小站！]]></subtitle>
-  <link href="/tags/finance/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="/tags/finance/" rel="alternate" type="text/html" />
-  <updated>2022-06-19T02:00:00+02:00</updated>
+  <link href="/tags/english/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="/tags/english/" rel="alternate" type="text/html" />
+  <updated>2022-06-21T02:00:00+02:00</updated>
   <author>
     <name>狮子山下</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
-    <id>/blog/cb/</id>
-    <title>可转债与对冲基金的前世今生</title>
+    <id>/blog/englishnames/</id>
+    <title>英文人名的起源</title>
     <content type="html">
-      <![CDATA[<p>我叔在年届不惑的时候，想明白了一个道理。人生或主动、或被动，都是一个接一个的选择题。当下的选择，不见得有立竿见影的效果，但若干选择的累积，假以时日，就走出各自不同的人生道路。</p>
+      <![CDATA[<p>古老相传，以前的人是先有名，后有姓。</p>
 <!-- excerpt -->
 <p><a href="https://www.calamos.com/insights/convertible-securities/">convertible bonds</a></p>
 <p><a href="https://algotrading101.com/learn/convertible-arbitrage/">algo</a></p>
@@ -60,8 +60,8 @@
 <h2 id="结语">结语</h2>
 <p>祝想润的小伙伴们心想事成。但叔不做移民生意，也没时间提供咨询，各位小伙伴们自己加油哈。</p>]]>
     </content>
-    <link href="/blog/cb/" rel="alternate" type="text/html" />
-    <published>2022-06-19T02:00:00+02:00</published>
-    <updated>2022-06-19T02:00:00+02:00</updated>
+    <link href="/blog/englishnames/" rel="alternate" type="text/html" />
+    <published>2022-06-21T02:00:00+02:00</published>
+    <updated>2022-06-21T02:00:00+02:00</updated>
   </entry>
 </feed>
