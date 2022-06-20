@@ -1,13 +1,13 @@
 ---
-title: 可转债与对冲基金的前世今生
-date: 2022-06-19
-image: /images/stanley.jpg
+title: 英文人名的起源
+date: 2022-06-21
+image: /images/parkview.jpg
 tags:
-  - Finance
-draft: true
+  - English
+draft: false
 ---
 
-我叔在年届不惑的时候，想明白了一个道理。人生或主动、或被动，都是一个接一个的选择题。当下的选择，不见得有立竿见影的效果，但若干选择的累积，假以时日，就走出各自不同的人生道路。
+古老相传，以前的人是先有名，后有姓。
 
 <!-- excerpt -->
 
