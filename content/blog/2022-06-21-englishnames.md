@@ -1,5 +1,5 @@
 ---
-title: 英文人名的起源
+title: 西人姓氏的由来
 date: 2022-06-21
 image: /images/island.jpg
 tags:
@@ -11,7 +11,9 @@ draft: false
 
 <!-- excerpt -->
 
-如果你知道英文名的由来，那大概就能猜个八九不离十。这里 thatch 是茅草屋顶，而 thatcher 是屋顶工匠的意思，原来他们老家是修屋顶的手艺人！
+如果你知道英文名的由来，那大概就能猜个八九不离十，因为 thatch 是茅草屋顶的意思，而 thatcher 是指修屋顶的工匠，原来他们老家是修屋顶的手艺人！
+
+这里可以看出，有些英文姓氏是用祖上的职业命名的。这就引出了一个很有意思的话题，西人的姓氏到底有哪些由来？
 
 [convertible bonds](https://www.calamos.com/insights/convertible-securities/)
 
