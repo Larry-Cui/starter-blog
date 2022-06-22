@@ -1,13 +1,13 @@
 ---
 title: 英文人名的起源
 date: 2022-06-21
-image: /images/parkview.jpg
+image: /images/island.jpg
 tags:
   - English
 draft: false
 ---
 
-古老相传，以前的人是先有名，后有姓。
+假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的老公祖上是从事什么职业，你能回答么？如果你知道英文名字的来历，那就大概可以猜到，因为 thatch 是茅草屋顶，而 thatcher 是屋顶工匠的意思。
 
 <!-- excerpt -->
 
