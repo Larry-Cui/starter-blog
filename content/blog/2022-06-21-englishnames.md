@@ -7,9 +7,11 @@ tags:
 draft: false
 ---
 
-假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的老公祖上是从事什么职业，你能回答么？如果你知道英文名字的来历，那就大概可以猜到，因为 thatch 是茅草屋顶，而 thatcher 是屋顶工匠的意思。
+假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的夫婿祖上是从事什么职业，你能猜到么？
 
 <!-- excerpt -->
+
+如果你知道英文名的由来，那大概就能猜个八九不离十。这里 thatch 是茅草屋顶，而 thatcher 是屋顶工匠的意思，原来他们老家是修屋顶的手艺人！
 
 [convertible bonds](https://www.calamos.com/insights/convertible-securities/)
 
