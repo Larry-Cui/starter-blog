@@ -1,7 +1,7 @@
 ---
 title: 如何在网页中嵌入google照片库链接
 date: 2022-06-23
-image: /images/1665_Girl_with_a_Pearl_Earring.jpeg
+image: /images/1665_Girl_with_a_Pearl_Earring.jpg
 tags:
   - IT
 draft: false
