@@ -5,29 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>如何在网页中嵌入google照片库链接 &middot; 狮子山下</title>
+    <title>小学毕业了 &middot; 狮子山下</title>
     <meta name="description" content="欢迎光临油腻叔的博客小站！" />
-    <meta name="keywords" content="IT, Cecil, Static Site Generator, SSG" />
+    <meta name="keywords" content="Life, Cecil, Static Site Generator, SSG" />
     <meta name="author" content="油腻叔" />
     <meta name="robots" content="index,follow" />
-    <link rel="prev" href="/blog/embed-photo-copy/">
-    <link rel="canonical" type="text/html" title="如何在网页中嵌入google照片库链接 &middot; 狮子山下" href="/blog/embed-photo/" />
+    <link rel="prev" href="/blog/englishnames/">
+    <link rel="next" href="/blog/embed-photo/">
+    <link rel="canonical" type="text/html" title="小学毕业了 &middot; 狮子山下" href="/blog/embed-photo-copy/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="狮子山下" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="如何在网页中嵌入google照片库链接 &middot; 狮子山下" />
+    <meta property="og:title" content="小学毕业了 &middot; 狮子山下" />
     <meta property="og:description" content="欢迎光临油腻叔的博客小站！" />
-    <meta property="og:url" content="/blog/embed-photo/" />
-    <meta property="og:image" content="/assets/thumbnails/1200/images/1665_Girl_with_a_Pearl_Earring.6746393adc1d795121758ad9a5552f28.jpg" />
+    <meta property="og:url" content="/blog/embed-photo-copy/" />
+    <meta property="og:image" content="/assets/thumbnails/1200/images/cais.d2c6f49d0883c92ec4713f3565453fc2.jpeg" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="1421" />
-    <meta property="og:image:alt" content="如何在网页中嵌入google照片库链接 &middot; 狮子山下" />
-    <meta name="twitter:title" content="如何在网页中嵌入google照片库链接 &middot; 狮子山下" />
+    <meta property="og:image:height" content="424" />
+    <meta property="og:image:alt" content="小学毕业了 &middot; 狮子山下" />
+    <meta name="twitter:title" content="小学毕业了 &middot; 狮子山下" />
     <meta name="twitter:description" content="欢迎光临油腻叔的博客小站！" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="/assets/thumbnails/1200/images/1665_Girl_with_a_Pearl_Earring.6746393adc1d795121758ad9a5552f28.jpg" />
-    <meta name="twitter:image:alt" content="如何在网页中嵌入google照片库链接 &middot; 狮子山下" />
+    <meta name="twitter:image" content="/assets/thumbnails/1200/images/cais.d2c6f49d0883c92ec4713f3565453fc2.jpeg" />
+    <meta name="twitter:image:alt" content="小学毕业了 &middot; 狮子山下" />
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.62a368372094d2c7d6c28ac29ff6f2c2.png">
     <link rel="shortcut icon" href="/favicon.2ada4606592c9526e22f0aa23d1882e9.ico">
@@ -87,20 +88,18 @@
       </div>
     </div>
     <div class="content container">
-      <h1 class="page-title">如何在网页中嵌入google照片库链接</h1>
+      <h1 class="page-title">小学毕业了</h1>
       <span class="post-date">23 Jun 2022</span>
-      <img src="/images/1665_Girl_with_a_Pearl_Earring.6746393adc1d795121758ad9a5552f28.jpg" />
-      <p>在博客或个人网页中，我们往往需要嵌入图片，这涉及到两个问题：第一是图片文件本身存放在哪里，第二是怎么把图片嵌入到网页中。</p>
+      <img src="/images/cais.d2c6f49d0883c92ec4713f3565453fc2.jpeg" />
+      <p>从二年级下转来 CAIS，眨眼 4 年半过去，今夏迎来了小学毕业季。</p>
 <span id="more"></span>
-<p>以个人博客网站来说，由于博客一般都部署在 <code>Github</code> 上，所以容量相对有限。虽然图片可以跟博客文档一并存放在 <code>GitHub</code> 项目文件池里，但通常来说我们都不会这么做，因为图片比较占用空间，很快就会吃掉有限的容量配额。</p>
-<p>Google photo 提供了 15G 容量的空间，所以博客经常把需要使用的图片存放在这里，然后通过在网页上嵌入链接的方式，让博客网站调取图片实现页面展示。</p>
-<p>由于 Google photo 的图片地址不是静态链接，没法直接复制使用，因此外链图片的使用过程要分为两步：</p>
-<ul>
-<li>第一步是找到图片的原始链接。我们需要去到<a href="https://photos.google.com/"> Google photo </a>，找到需要链接的图片，然后点击分享-生成链接，Google 会自动生成一个图片分享链接。</li>
-<li>以上生成的链接没法直接使用，所以我们在第二步的时候，需要把这个 Google 图片链接转换成 <code>HTML</code> 网页可用的链接。好多网站提供这种转换服务，我自己使用过 <a href="https://www.labnol.org/embed/google/photos/">digital inspiration</a> 的网站，证实可用。当然，如果以上的链接失效，完全可以搜索到其他类似的网站功能。这里生成的链接，就可以直接嵌入网页使用了。</li>
-</ul>
+<p>！<a href="https://lh3.googleusercontent.com/obglTxWT4aRkTnIH9YXEy7GqLZVFbpT-yTsedWa_QWJVQaC4FpXzhGC1pZ1jdqcBK8_xJEQfNCAOMEbxY1I07RVbPj9jvozxWwFrJxyUvvQh8EvJdZx7JXJMkSc9GjrRRTKcWWde8w=w2400">with classmates</a></p>
+<img src="/assets/lh3.googleusercontent.com/S1YEOjGeplZqq8O7sujEvCLn4hgmAJTTxLLWraDcC7vrMKw2jqFqKvojhagkGut9r3TIEPHeEokWNgDtTJjHXY0NuFQCfSpcGfN0J394yDrVKVTtC1iIJOdGp8WNpi0kELq07GnLVA=w2400" alt="with classmates more" loading="lazy" width="2400" height="3200" />
+<img src="/assets/lh3.googleusercontent.com/nHQU8FCxpFE5Rgi4qqPZPQgIqPNF3yM0quhY2Lrvkdka8zhqzzeKV3V2hpOUofhHrCsNLDB_FQODmm-w6ldCnLS2BHBIwDva5a8flLLUAOmZuDeKNYb1oDPVpPfZym_YcNmvwSCtDA=w2400" alt="three of us" loading="lazy" width="2400" height="1800" />
+<img src="/assets/lh3.googleusercontent.com/8e4lv09TwiWLulSJNlSFX1u16c5aK_yxyTkMRwXDU626XyyZW6dwTQJPzy9ZGUc1feVwjp-3LRvdRssPrRp4wAD4ynOUpQbXB4EGW8WNV7bGdUtuQYWWwwzs55UaXykSToEGjk3b7A=w2400" alt="with mom" loading="lazy" width="2400" height="1800" />
+<img src="/assets/lh3.googleusercontent.com/GYGXsIP4UuzF5hgqmlmWv9o5xq78pleviUXReq998iRLHCo2U6BNFiwDhT1b5QT9k8i7WShb1Ms1NRE0L3KGV8m8jz77CUpRHZRQ85ju70CtMHcM5MSurUCuvG1dCH1Wh3uFg90OLA=w2400" alt="with dad" loading="lazy" width="2400" height="1800" />
       <p>
-        <a href="/tags/it/">#IT</a>&nbsp;
+        <a href="/tags/life/">#Life</a>&nbsp;
       </p>
 
     </div>
