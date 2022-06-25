@@ -79,7 +79,7 @@ Let's look at all the children in Tommy's class and divide their names into the 
 - _kins_ at the end of a name formed a nickname meaning "little". _Tomkins_ meant "little Tom", or "Tom's little one"
 - _ez_ at the end of a name meant "son of" in Spanish. _Rodriguez_ meant "son of Roderick"
 
-#### Common Names from Father's First Name
+**Common Names from Father's First Name**
 
 | Son of  | Last Name                          |
 | :------ | :--------------------------------- |
@@ -104,21 +104,8 @@ _Figueroa_ means "where the fig trees grow" in Spanish. So Robert Figueroa's anc
 
 如果你知道英文名的由来，那大概就能猜个八九不离十，因为 thatch 是茅草屋顶的意思，而 thatcher 是指修屋顶的工匠，原来他们老家是修屋顶的手艺人！
 
-这里可以看出，有些英文姓氏是用祖上的职业命名的。这就引出了一个很有意思的话题，西人的姓氏到底有哪些由来？
-
-本文章节：
-
 - [Introduction](#introduction)
 - [Family Names](#family-names)
   - [History](#history)
   - [Names from a Father](#names-from-a-father)
-    - [Common Names from Father's First Name](#common-names-from-fathers-first-name)
   - [Names from a Place](#names-from-a-place)
-  - [姓氏起源的时间和原因](#姓氏起源的时间和原因)
-  - [姓氏的由来分类](#姓氏的由来分类)
-
-### 姓氏起源的时间和原因
-
-this is a test to see if internal link works in markdown.
-
-### 姓氏的由来分类
