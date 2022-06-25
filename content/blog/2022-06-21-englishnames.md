@@ -17,11 +17,43 @@ There are twenty-four other children in Tommy's class. Twelve are boys and twelv
 
 Every morning, at school, Mrs. Zimmerman, the teacher, calles out the names of the children. The children shout "present" after they hear their names.
 
-| **Boys**          | **Girls**      |
-| :---------------- | :------------- |
-| Daniel Armstrong  | Samantha Baker |
-| Robert Figueroa   | Kim Chan       |
-| Andrew Fitzgerald | Jennifer Clark |
+| Boys               | Girls               |
+| :----------------- | :------------------ |
+| Daniel Armstrong   | Samantha Baker      |
+| Robert Figueroa    | Kim Chan            |
+| Andrew Fitzgerald  | Jennifer Clark      |
+| Joshua Fox         | Emily Fisher        |
+| Jason Freeman      | Rebecca Goldschmitt |
+| Jose Garcia        | Amanda Hill         |
+| William Gardener   | Stephanie Jackson   |
+| Kareem Johnson     | Kawanna Macdonald   |
+| Matthew Longfellow | Isabelle Redriguez  |
+| Michael O'Brian    | Brittany Schumacher |
+| Thomas Tomkins     | Ashley Taylor       |
+| Christopher Wood   | Sarah White         |
+| David Yamamura     |                     |
+
+Your last name is your family name. Your first name is your given name. It's called "given name" because your parents give it to you.
+
+Your family name has probably been in your family for hundreds of years.
+
+At one time many years ago, people had only one name, a given name.
+
+People lived in small villages wehre everyone knew each other. Over the years, the population increased. In the towns and villages many people had the same name, and it started to get confusing.
+
+In one village there may have been eight men called John. The villagers had to add words to the different Johns' names to understand which John they were talking about.
+
+Some of the Johns were known by adding their father's name. For example, John, David's son, or John, Jack's son.
+
+Others were known by where they lived. For example, John from the hill, or John from the lake.
+
+Others were known by the job they did. For example, John the carpenter or John the gardener.
+
+Still others were known by some personal feature. For example, John the short, or John with white hair.
+
+Since the Middle Ages, the rulers of many countries wanted to know who everyone was in their country, so they can collect taxes without any mistakes. Laws were passed that said everyone had to have a last name.
+
+In our example village, John, David's son became John _Davidson_. John, Jack's sone became John _Jackson_. John from the lake became John _Lake_, John from the hill became John _Hill_. John the carpenter become John _Carpenter_, and John the gardener became John _Gardener_. John the short became John _Short_. John with white hair became John _White_.
 
 假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的夫婿祖上是从事什么职业，你能猜到么？
 
