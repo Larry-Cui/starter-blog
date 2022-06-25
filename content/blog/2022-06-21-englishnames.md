@@ -55,6 +55,33 @@ Since the Middle Ages, the rulers of many countries wanted to know who everyone 
 
 In our example village, John, David's son became John _Davidson_. John, Jack's sone became John _Jackson_. John from the lake became John _Lake_, John from the hill became John _Hill_. John the carpenter become John _Carpenter_, and John the gardener became John _Gardener_. John the short became John _Short_. John with white hair became John _White_.
 
+Our last names are usually based on one of the four groups:
+
+1. father's name
+2. place where they lived
+3. job or trade
+4. person's appearance
+
+Let's look at all the children in Tommy's class and divide their names into the four groups.
+
+### Names from a Father
+
+- _Fitz_ means "son of" and came from France. _Fitzgerald_ meant "sone of Gerald"
+- _Johnsone_ started off as "John's son", and _Jackson_ as "Jack's son"
+- _Mac_ and _Mc_ mean "son of" and occur in Scottish and Irish names. _Macdonald_ meant "son of Donald"
+- _O'_ means "son of" and is used in Irish names. "O'Brian" meant "son of Brian"
+- _kins_ at the end of a name formed a nickname meaning "little". _Tomkins_ meant "little Tom", or "Tom's little one"
+- _ez_ at the end of a name meant "son of" in Spanish. _Rodriguez_ meant "son of Roderick"
+
+<table>
+  <tr>
+  <td rowspan="2">Common Names from Father's First Name</td>
+  </tr>
+| Son of | Last Name |
+| :----- | :-------- |
+
+  </table>
+
 假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的夫婿祖上是从事什么职业，你能猜到么？
 
 如果你知道英文名的由来，那大概就能猜个八九不离十，因为 thatch 是茅草屋顶的意思，而 thatcher 是指修屋顶的工匠，原来他们老家是修屋顶的手艺人！
@@ -63,6 +90,7 @@ In our example village, John, David's son became John _Davidson_. John, Jack's s
 
 本文章节：
 
+- [Names from a Father](#names-from-a-father)
 - [姓氏起源的时间和原因](#姓氏起源的时间和原因)
 - [姓氏的由来分类](#姓氏的由来分类)
 
