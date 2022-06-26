@@ -137,6 +137,40 @@ The ancestors of the children in the class with "job" names were bakers, clerks,
 | Wheeler           | A Wheeler made wheels for the carts                        |
 | Tanner            | A tanner worked with leather                               |
 
+<br>
+**Ohter Common Names from Jobs**
+
+| Last Name | Job or Trade           |
+| --------- | ---------------------- |
+| Smith     | blacksmith             |
+| Farmer    | farmworker             |
+| Miller    | worked in a flour mill |
+| Shepherd  | took care of sheep     |
+| Cook      | cooked food            |
+| Potter    | made pots              |
+
+### Names from a Description
+
+- The first ancestor of Daniel _Armstrong_ with a last name was known as a strong man.
+- Chan is Chinese and means "old", so the first person to have a last name in Kim's family was old.
+- Joshua _Fox_'s ancestor was probably cunning, like a fox.
+- _Longfellow_ was a tall person and _White_ had white hair.
+
+**Common Names from Description**
+
+| Last Name | Description                     |
+| --------- | ------------------------------- |
+| Brown     | brown skin or hair              |
+| Young     | yound person                    |
+| Gray      | gray hair                       |
+| Bird      | timid, like a bird              |
+| Long      | tall person                     |
+| Peacock   | pround or showy, like a peacock |
+| Lamb      | meek, like a lamb               |
+| Whitehead | with white hair                 |
+| Bull      | wild and dangerous, like a bull |
+| Short     | a short person                  |
+
 假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的夫婿祖上是从事什么职业，你能猜到么？
 
 如果你知道英文名的由来，那大概就能猜个八九不离十，因为 thatch 是茅草屋顶的意思，而 thatcher 是指修屋顶的工匠，原来他们老家是修屋顶的手艺人！
@@ -147,3 +181,4 @@ The ancestors of the children in the class with "job" names were bakers, clerks,
   - [Names from a Father](#names-from-a-father)
   - [Names from a Place](#names-from-a-place)
   - [Names from a Job](#names-from-a-job)
+  - [Names from a Description](#names-from-a-description)
