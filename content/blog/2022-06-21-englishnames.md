@@ -121,19 +121,19 @@ Let's look at all the children in Tommy's class and divide their names into the 
 
 **Common Names from Places**
 
-| Place                             | Last Name |
-| :-------------------------------- | :-------- |
-| from a moor                       | Moore     |
-| from near a hall                  | Hall      |
-| from near a village green         | Green     |
-| from near a mill                  | Mills     |
-| from near a barn                  | Barnes    |
-| from near a ford (river crossing) | Ford      |
-| from near a lake                  | Lake      |
-| from near a brook                 | Brooks    |
-| from near a marsh                 | Marsh     |
-| from near a lane                  | Lane      |
-| from the country of Holland       | Holland   |
+| Place                            | Last Name |
+| :------------------------------- | :-------- |
+| from a moor                      | Moore     |
+| from near a hall                 | Hall      |
+| from near a village green        | Green     |
+| from near a mill                 | Mills     |
+| from near a barn                 | Barnes    |
+| from near a ford(river crossing) | Ford      |
+| from near a lake                 | Lake      |
+| from near a brook                | Brooks    |
+| from near a marsh                | Marsh     |
+| from near a lane                 | Lane      |
+| from the country of Holland      | Holland   |
 
 ### Names from a Job
 
