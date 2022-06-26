@@ -158,7 +158,7 @@ The ancestors of the children in the class with "job" names were bakers, clerks,
 **Ohter Common Names from Jobs**
 
 | Last Name | Job or Trade           |
-| --------- | ---------------------- |
+| :-------- | :--------------------- |
 | Smith     | blacksmith             |
 | Farmer    | farmworker             |
 | Miller    | worked in a flour mill |
@@ -176,7 +176,7 @@ The ancestors of the children in the class with "job" names were bakers, clerks,
 **Common Names from Description**
 
 | Last Name | Description                     |
-| --------- | ------------------------------- |
+| :-------- | :------------------------------ |
 | Brown     | brown skin or hair              |
 | Young     | yound person                    |
 | Gray      | gray hair                       |
@@ -193,7 +193,7 @@ The ancestors of the children in the class with "job" names were bakers, clerks,
 Now we can group children's last names and put them into four categories.
 
 | Father                                                                           | Place                                          | Job                                                                                   | Description                                     |
-| -------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| :------------------------------------------------------------------------------- | :--------------------------------------------- | :------------------------------------------------------------------------------------ | :---------------------------------------------- |
 | Fitzgerald<br>Johnson<br>Jackson<br>Macdonald<br>O'Brian<br>Tomkins<br>Rodriguez | Figueroa<br>Garcia<br>Hill<br>Wood<br>Yamamura | Baker<br>Clark<br>Fisher<br>Freeman<br>Gardener<br>Goldschmitt<br>Shumacher<br>Taylor | Armstrong<br>Chan<br>Fox<br>Longfellow<br>White |
 
 ## Changing Names
@@ -219,7 +219,7 @@ Most first names have meanings, which are very old and now forgotten.
 **Meanings of Some Common First Names**
 
 | Name      | Meaning              | Language    |
-| --------- | -------------------- | ----------- |
+| :-------- | :------------------- | :---------- |
 | Ashley    | from the ash tree    | Old English |
 | Brittany  | a woman from Britain | Irish       |
 | Stephanie | crown                | Greek       |
@@ -247,21 +247,34 @@ In the past few years, it has become popular to use family names as first names.
 
 Very often, first names are shortened or changed. These names are called nicknames. Let's look at Tommy's class and see how many nicknames there are.
 
-| Boys               | Nicknames | Girls               | Nicknames |
-| :----------------- | :-------- | ------------------- | --------- |
-| Daniel Armstrong   | Danny     | Samantha Baker      | Sam       |
-| Robert Figueroa    | Bobby     | Kim Chan            | N/A       |
-| Andrew Fitzgerald  | Andy      | Jennifer Clark      | Jenny     |
-| Joshua Fox         | Josh      | Emily Fisher        | Em        |
-| Jason Freeman      | Flash[^1] | Rebecca Goldschmitt | Becky     |
-| Jose Garcia        | N/A       | Amanda Hill         | Mandy     |
-| William Gardener   | Billy     | Stephanie Jackson   | Stephie   |
-| Kareem Johnson     | KJ        | Kawanna Macdonald   | Mac       |
-| Matthew Longfellow | Matt      | Isabelle Redriguez  | Bella     |
-| Michael O'Brian    | Mike      | Brittany Schumacher | Britt     |
-| Thomas Tomkins     | Tommy     | Ashley Taylor       | Spud[^2]  |
-| Christopher Wood   | Chris     | Sarah White         | N/A       |
-| David Yamamura     | Dave      |
+| Boys                | Nicknames |
+| :------------------ | :-------- |
+| Daniel Armstrong    | Danny     |
+| Robert Figueroa     | Bobby     |
+| Andrew Fitzgerald   | Andy      |
+| Joshua Fox          | Josh      |
+| Jason Freeman       | Flash[^1] |
+| Jose Garcia         | N/A       |
+| William Gardener    | Billy     |
+| Kareem Johnson      | KJ        |
+| Matthew Longfellow  | Matt      |
+| Michael O'Brian     | Mike      |
+| Thomas Tomkins      | Tommy     |
+| Christopher Wood    | Chris     |
+| David Yamamura      | Dave      |
+| Girls               | Nicknames |
+| Samantha Baker      | Sam       |
+| Kim Chan            | N/A       |
+| Jennifer Clark      | Jenny     |
+| Emily Fisher        | Em        |
+| Rebecca Goldschmitt | Becky     |
+| Amanda Hill         | Mandy     |
+| Stephanie Jackson   | Stephie   |
+| Kawanna Macdonald   | Mac       |
+| Isabelle Redriguez  | Bella     |
+| Brittany Schumacher | Britt     |
+| Ashley Taylor       | Spud[^2]  |
+| Sarah White         | N/A       |
 
 [^1]: Jason is called _Flash_, but that's not because of his name, but because he runs fast.
 [^2]: Ashley is called _Spud_ because she eats a lot of potatoes.
