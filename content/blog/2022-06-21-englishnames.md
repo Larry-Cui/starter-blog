@@ -98,7 +98,44 @@ Let's look at all the children in Tommy's class and divide their names into the 
 
 ### Names from a Place
 
-_Figueroa_ means "where the fig trees grow" in Spanish. So Robert Figueroa's ancestors came from a place where fig trees grew in Spain.
+- _Figueroa_ means "where the fig trees grow" in Spanish. So Robert Figueroa's ancestors came from a place where fig trees grew in Spain.
+- _Garcia_ is the name of a place in Spain, so Jose's ancestors came from this town.
+- _Yamamura_ is Japanese. _Yama_ means "mountian" and _mura_ means "village". David's ancestors came from a village in the mountains of Japan.
+
+**Common Names from Places**
+
+| Place                             | Last Name |
+| :-------------------------------- | :-------- |
+| from a moor                       | Moore     |
+| from near a hall                  | Hall      |
+| from near a village green         | Green     |
+| from near a mill                  | Mills     |
+| from near a barn                  | Barnes    |
+| from near a ford (river crossing) | Ford      |
+| from near a lake                  | Lake      |
+| from near a brook                 | Brooks    |
+| from near a marsh                 | Marsh     |
+| from near a lane                  | Lane      |
+| from the country of Holland       | Holland   |
+
+### Names from a Job
+
+The ancestors of the children in the class with "job" names were bakers, clerks, fishermen, gardeners, goldsmiths, and tailors.
+
+- _Schumacher_ menas "shoemaker" in German, so Brittany had an ancestor who made shoes.
+- Jason Freeman's ancestors were salves. They were captured in Africa and brought, against their will, to America to work in the fields. When slavery was abolished, they were able to choose their own names. Many picked the names of their former masters. Some, like Jason's ancestors, chose the name _Freeman_.
+
+**Jobs No Longer Exist but Names Live on**
+
+| Name              | Job Description                                            |
+| :---------------- | :--------------------------------------------------------- |
+| Cooper            | A cooper made wooden barrels                               |
+| Hooper            | A hooper made hoops for barrels                            |
+| Archer and Bowman | Archers and bowman were soldiers who used a bow and arrows |
+| Fletcher          | A fletcher made arrows                                     |
+| Carter            | A carter made or drove carts                               |
+| Wheeler           | A Wheeler made wheels for the carts                        |
+| Tanner            | A tanner worked with leather                               |
 
 假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的夫婿祖上是从事什么职业，你能猜到么？
 
@@ -109,3 +146,4 @@ _Figueroa_ means "where the fig trees grow" in Spanish. So Robert Figueroa's anc
   - [History](#history)
   - [Names from a Father](#names-from-a-father)
   - [Names from a Place](#names-from-a-place)
+  - [Names from a Job](#names-from-a-job)
