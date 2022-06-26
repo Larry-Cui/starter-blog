@@ -121,19 +121,19 @@ Let's look at all the children in Tommy's class and divide their names into the 
 
 **Common Names from Places**
 
-| Place                            | Last Name |
-| :------------------------------- | :-------- |
-| from a moor                      | Moore     |
-| from near a hall                 | Hall      |
-| from near a village green        | Green     |
-| from near a mill                 | Mills     |
-| from near a barn                 | Barnes    |
-| from near a ford(river crossing) | Ford      |
-| from near a lake                 | Lake      |
-| from near a brook                | Brooks    |
-| from near a marsh                | Marsh     |
-| from near a lane                 | Lane      |
-| from the country of Holland      | Holland   |
+| Place                             | Last Name |
+| :-------------------------------- | :-------- |
+| from a moor                       | Moore     |
+| from near a hall                  | Hall      |
+| from near a village green         | Green     |
+| from near a mill                  | Mills     |
+| from near a barn                  | Barnes    |
+| from near a ford - river crossing | Ford      |
+| from near a lake                  | Lake      |
+| from near a brook                 | Brooks    |
+| from near a marsh                 | Marsh     |
+| from near a lane                  | Lane      |
+| from the country of Holland       | Holland   |
 
 ### Names from a Job
 
@@ -247,22 +247,24 @@ In the past few years, it has become popular to use family names as first names.
 
 Very often, first names are shortened or changed. These names are called nicknames. Let's look at Tommy's class and see how many nicknames there are.
 
-| Boys                | Nicknames |
-| :------------------ | :-------- |
-| Daniel Armstrong    | Danny     |
-| Robert Figueroa     | Bobby     |
-| Andrew Fitzgerald   | Andy      |
-| Joshua Fox          | Josh      |
-| Jason Freeman       | Flash[^1] |
-| Jose Garcia         | N/A       |
-| William Gardener    | Billy     |
-| Kareem Johnson      | KJ        |
-| Matthew Longfellow  | Matt      |
-| Michael O'Brian     | Mike      |
-| Thomas Tomkins      | Tommy     |
-| Christopher Wood    | Chris     |
-| David Yamamura      | Dave      |
+| Boys               | Nicknames |
+| :----------------- | :-------- |
+| Daniel Armstrong   | Danny     |
+| Robert Figueroa    | Bobby     |
+| Andrew Fitzgerald  | Andy      |
+| Joshua Fox         | Josh      |
+| Jason Freeman      | Flash[^1] |
+| Jose Garcia        | N/A       |
+| William Gardener   | Billy     |
+| Kareem Johnson     | KJ        |
+| Matthew Longfellow | Matt      |
+| Michael O'Brian    | Mike      |
+| Thomas Tomkins     | Tommy     |
+| Christopher Wood   | Chris     |
+| David Yamamura     | Dave      |
+
 | Girls               | Nicknames |
+| :------------------ | :-------- |
 | Samantha Baker      | Sam       |
 | Kim Chan            | N/A       |
 | Jennifer Clark      | Jenny     |
