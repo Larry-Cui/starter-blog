@@ -11,7 +11,7 @@ draft: false
 
 <!-- excerpt -->
 
-为了书写方便，以下我就都用英文了，反正能读到这篇文章的小伙伴们，这点英文不成问题。
+为节省时间，文章就不翻译了，直接上英文，反正能读到这篇文章的小伙伴们，这点英文不成问题。当然，我做了点删减。
 
 本文目录如下：
 
@@ -204,7 +204,7 @@ Sometimes, people arrived in the country and an official would change their name
 
 - Someone called _Jan Micsza_ would have become _John Mcshea_.
 - Someone with the last name of _Mlynar_ would become _Miller_.
-- _Hildergart Zimmerman_ (German for "carpenter") would become _Hilda Carpenter_.
+- _Hildergart Zimmerman_, German for "carpenter", would become _Hilda Carpenter_.
 
 Sometimes actors and singer change their names so that people will remember them more easily, like _Babyface_ from Kenneth Brian Edmonds, _Tom Cruise_ from Thomas Cruise Mapother IV, _Eminem_ from Marshall mathers III, _Elton John_ from Reginald Kenneth Dwight, _Madonna_ from Madonna Louise Ciccone, _Sting_ from Gordon Matthew Sumner, _Tiger Woods_ from Eldrick Woods.
 
