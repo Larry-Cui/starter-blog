@@ -13,6 +13,23 @@ draft: false
 
 为了书写方便，以下我就都用英文了，反正能读到这篇文章的小伙伴们，这点英文不成问题。
 
+本文目录如下：
+
+- [Introduction](#introduction)
+- [Family Names](#family-names)
+  - [History](#history)
+  - [Names from a Father](#names-from-a-father)
+  - [Names from a Place](#names-from-a-place)
+  - [Names from a Job](#names-from-a-job)
+  - [Names from a Description](#names-from-a-description)
+  - [Categories](#categories)
+- [Changing Names](#changing-names)
+- [First Names](#first-names)
+  - [Meaningful Names](#meaningful-names)
+  - [Family Names as First Names](#family-names-as-first-names)
+- [Nicknames](#nicknames)
+- [Epilogue](#epilogue)
+
 ## Introduction
 
 There are twenty-four other children in Tommy's class. Twelve are boys and twelve are girls.
@@ -171,14 +188,86 @@ The ancestors of the children in the class with "job" names were bakers, clerks,
 | Bull      | wild and dangerous, like a bull |
 | Short     | a short person                  |
 
+### Categories
+
+Now we can group children's last names and put them into four categories.
+
+| Father                                                                           | Place                                          | Job                                                                                   | Description                                     |
+| -------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Fitzgerald<br>Johnson<br>Jackson<br>Macdonald<br>O'Brian<br>Tomkins<br>Rodriguez | Figueroa<br>Garcia<br>Hill<br>Wood<br>Yamamura | Baker<br>Clark<br>Fisher<br>Freeman<br>Gardener<br>Goldschmitt<br>Shumacher<br>Taylor | Armstrong<br>Chan<br>Fox<br>Longfellow<br>White |
+
+## Changing Names
+
+Sometimes family names were changed for different reasons. Many of the people going to America from Europe had difficult names to pronounce and spell. To make things less difficult, they changed their names.
+
+Sometimes, people arrived in the country and an official would change their name for them. This was because the official couldn't understand them when he asked them their names, or he couldn't spell it properly.
+
+- Someone called _Jan Micsza_ would have become _John Mcshea_.
+- Someone with the last name of _Mlynar_ would become _Miller_.
+- _Hildergart Zimmerman_ (German for "carpenter") would become _Hilda Carpenter_.
+
+Sometimes actors and singer change their names so that people will remember them more easily, like _Babyface_ from Kenneth Brian Edmonds, _Tom Cruise_ from Thomas Cruise Mapother IV, _Eminem_ from Marshall mathers III, _Elton John_ from Reginald Kenneth Dwight, _Madonna_ from Madonna Louise Ciccone, _Sting_ from Gordon Matthew Sumner, _Tiger Woods_ from Eldrick Woods.
+
+## First Names
+
+Now let's look at given names or first names.
+
+### Meaningful Names
+
+Most first names have meanings, which are very old and now forgotten.
+
+**Meanings of Some Common First Names**
+
+| Name      | Meaning              | Language    |
+| --------- | -------------------- | ----------- |
+| Ashley    | from the ash tree    | Old English |
+| Brittany  | a woman from Britain | Irish       |
+| Stephanie | crown                | Greek       |
+| Amanda    | lovable              | Latin       |
+| Michael   | Who is like God      | Hebrew      |
+| Andrew    | courageous           | Greek       |
+| Robert    | bright fame          | English     |
+| David     | friend               | Hebrew      |
+
+### Family Names as First Names
+
+In the past few years, it has become popular to use family names as first names. Some examples:
+
+- Tyler, originally a family name from someone who put tiles on roofs
+- Hunter, a hunter
+- Logan, Irish, from a cove
+- Mason, a stone mason
+- Blake, Old English, white
+- Tanner, English, leather-worker
+- Morgan, Welsh, sea dweller
+- Haley, English, hay meadow
+- Brooke, lived near a brook
+
+## Nicknames
+
+Very often, first names are shortened or changed. These names are called nicknames. Let's look at Tommy's class and see how many nicknames there are.
+
+| Boys               | Nicknames | Girls               | Nicknames |
+| :----------------- | :-------- | ------------------- | --------- |
+| Daniel Armstrong   | Danny     | Samantha Baker      | Sam       |
+| Robert Figueroa    | Bobby     | Kim Chan            | N/A       |
+| Andrew Fitzgerald  | Andy      | Jennifer Clark      | Jenny     |
+| Joshua Fox         | Josh      | Emily Fisher        | Em        |
+| Jason Freeman      | Flash[^1] | Rebecca Goldschmitt | Becky     |
+| Jose Garcia        | N/A       | Amanda Hill         | Mandy     |
+| William Gardener   | Billy     | Stephanie Jackson   | Stephie   |
+| Kareem Johnson     | KJ        | Kawanna Macdonald   | Mac       |
+| Matthew Longfellow | Matt      | Isabelle Redriguez  | Bella     |
+| Michael O'Brian    | Mike      | Brittany Schumacher | Britt     |
+| Thomas Tomkins     | Tommy     | Ashley Taylor       | Spud[^2]  |
+| Christopher Wood   | Chris     | Sarah White         | N/A       |
+| David Yamamura     | Dave      |
+
+[^1]: Jason is called _Flash_, but that's not because of his name, but because he runs fast.
+[^2]: Ashley is called _Spud_ because she eats a lot of potatoes.
+
+## Epilogue
+
 假使有人问你，玛格丽特·撒切尔夫人（ _Ms. Margaret Thatcher_）的夫婿祖上是从事什么职业，你能猜到么？
 
 如果你知道英文名的由来，那大概就能猜个八九不离十，因为 thatch 是茅草屋顶的意思，而 thatcher 是指修屋顶的工匠，原来他们老家是修屋顶的手艺人！
-
-- [Introduction](#introduction)
-- [Family Names](#family-names)
-  - [History](#history)
-  - [Names from a Father](#names-from-a-father)
-  - [Names from a Place](#names-from-a-place)
-  - [Names from a Job](#names-from-a-job)
-  - [Names from a Description](#names-from-a-description)
