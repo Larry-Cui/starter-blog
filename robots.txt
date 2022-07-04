@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /p/1/
+Disallow: /blog/p/1/
 Disallow: /404.html
 Sitemap: /sitemap.xml
