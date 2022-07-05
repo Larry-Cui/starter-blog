@@ -6,11 +6,28 @@
   <subtitle><![CDATA[欢迎光临油腻叔的博客小站！]]></subtitle>
   <link href="/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2022-07-04T02:00:00+02:00</updated>
+  <updated>2022-07-05T02:00:00+02:00</updated>
   <author>
     <name>狮子山下</name>
     <uri>/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/blog/gre/</id>
+    <title>GRE资料分享</title>
+    <content type="html">
+      <![CDATA[<p>我叔最近从网上找了一些 GRE 复习资料，秉持着知识应当无偿分享的理念，所以公开分享给有需要的小伙伴们。</p>
+<!-- excerpt -->
+<p>本文目录：</p>
+<h2 id="写作">写作</h2>
+<p>GRE 写作有两篇，一篇是逻辑找错，另一篇是观点讨论。</p>
+<p>关于逻辑部分，首先分享的是<a href="https://drive.google.com/file/d/1MxQHQsSimGZgCZPTAPwB8cSAviRxr05O/view?usp=sharing">写作方法说明</a>，以及<a href="https://drive.google.com/file/d/1HxOTCqdXOZqJnYhiYnARtg5YF4VI5ysa/view?usp=sharing">逻辑题库</a>。</p>
+<p>接下来是观点讨论文章的<a href="https://drive.google.com/file/d/1EwOQq82LlYIV0pn_0b0mKLhnJUGVfYto/view?usp=sharing">写作方法说明</a>，以及<a href="https://drive.google.com/file/d/1rNPBUriRyVSW8L7MaqLRwgj609wDksjA/view?usp=sharing">观点讨论题库</a>.</p>
+<p>当然，最后必须奉上<a href="https://drive.google.com/file/d/1rhnxXI6KFQSr6HV64MmgSs9-4naVIjpT/view?usp=sharing">北美范文</a>。</p>]]>
+    </content>
+    <link href="/blog/gre/" rel="alternate" type="text/html" />
+    <published>2022-07-05T02:00:00+02:00</published>
+    <updated>2022-07-05T02:00:00+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/blog/y25/</id>
     <title>回归25年</title>
